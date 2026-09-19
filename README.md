@@ -2,7 +2,11 @@
 
 # 👋 MD. SAIMUR RAHMAN SAIMON
 
-### 💻 Software & Web Developer · CSE Student · ML Research Enthusiast
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=💻+Software+%26+Web+Developer;🎓+CSE+Student;🧠+ML+Research+Enthusiast;🚀+Building+%26+Learning" alt="Typing SVG" />
+  </a>
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Md-SaimurRahman&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
@@ -14,10 +18,12 @@
   <a href="https://github.com/Md-SaimurRahman">
     <img src="https://img.shields.io/badge/GitHub-Md--SaimurRahman-181717?style=for-the-badge&logo=github" />
   </a>
+
   <a href="mailto:saimurrahmansaimon@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Md-SaimurRahman">
+
+  <a href="https://www.linkedin.com/in/md-saimur-rahman-a1a307438/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -46,6 +52,16 @@ I enjoy turning ideas into practical software solutions and exploring how techno
 
 ---
 
+## 🎓 Education
+
+### American International University-Bangladesh
+
+**BSc in Computer Science & Engineering**
+
+📅 Expected Graduation: **December 2026**
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -62,7 +78,7 @@ I enjoy turning ideas into practical software solutions and exploring how techno
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-`HTML5` · `CSS3` · `React.js` · `Next.js` · `Tailwind CSS`
+`HTML5` · `CSS3` · `React.js` · `Next.js` · `Tailwind CSS` · `Responsive Web Design`
 
 ### 🗄️ Databases
 
@@ -179,4 +195,22 @@ Machine Learning & Data
 Research & Problem Solving
         ↓
 Real-World Software Solutions
-</div>
+🌱 Currently Focused On
+Improving software development practices
+Building stronger web development skills
+Exploring Machine Learning applications
+Developing research-oriented problem-solving skills
+Creating practical and maintainable software
+🧠 My Development Philosophy
+Write clean code.
+Solve real problems.
+Keep learning.
+Build something meaningful.
+🌍 Languages
+🇧🇩 Bengali — Native
+🇬🇧 English — Professional Working Proficiency
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/Md-SaimurRahman"> <img src="https://img.shields.io/badge/GitHub-Md--SaimurRahman-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/md-saimur-rahman-a1a307438/"> <img src="https://img.shields.io/badge/LinkedIn-Md--Saimur--Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:saimurrahmansaimon@gmail.com"> <img src="https://img.shields.io/badge/Email-saimurrahmansaimon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center">
+⚡ Keep Learning · Keep Building · Keep Improving
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=120&section=footer"/> </div>
