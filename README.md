@@ -2,11 +2,7 @@
 
 # 👋 MD. SAIMUR RAHMAN SAIMON
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=💻+Software+%26+Web+Developer;🎓+CSE+Student;🧠+ML+Research+Enthusiast;🚀+Building+%26+Learning" alt="Typing SVG" />
-  </a>
-</p>
+### 💻 Software & Web Developer · CSE Student · ML Research Enthusiast
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Md-SaimurRahman&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
@@ -49,16 +45,6 @@ I enjoy turning ideas into practical software solutions and exploring how techno
 - 🔬 Applied Research
 
 > 🚀 **Learn. Build. Research. Improve.**
-
----
-
-## 🎓 Education
-
-### American International University-Bangladesh
-
-**BSc in Computer Science & Engineering**
-
-📅 Expected Graduation: **December 2026**
 
 ---
 
