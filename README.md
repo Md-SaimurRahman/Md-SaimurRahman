@@ -117,6 +117,35 @@ Gaining practical experience in full-stack web development, working with fronten
 
 ## 🚀 Featured Projects
 
+### 🏡 Swapnajatra Properties Ltd. — Real Estate Management Platform
+
+**Project Type:** Full-Stack Web Application
+
+**Tech Stack**
+
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `PostgreSQL` `Supabase`
+
+A modern, responsive real estate platform designed to streamline property listings, customer enquiries, and property management through a dynamic website and admin dashboard.
+
+### ✨ Key Features
+
+- Responsive and user-friendly website
+- Dynamic property listings and search filters
+- Property details and image galleries
+- Admin dashboard and content management
+- Property and project management
+- Customer enquiries and visit requests
+- Database integration and authentication
+- Bangla and English language support
+
+### 🔗 Project Links
+
+🌐 [Live Website](https://md-saimurrahman.github.io/swapnajatra-properties/)
+
+💻 [GitHub Repository](https://github.com/Md-SaimurRahman/swapnajatra-properties)
+
+---
+
 ### 🏥 MediTrust — Hospital Management System
 
 **Tech Stack**
