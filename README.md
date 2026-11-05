@@ -59,6 +59,26 @@ I enjoy turning ideas into practical software solutions and exploring how techno
 
 ---
 
+## 💼 Professional Experience
+
+### 💻 Full Stack Developer Intern
+
+**[Bangladesh Chamber of Industries (BCI)](https://www.bci-bd.org/)**
+
+📍 Dhaka, Bangladesh  
+📅 **01 October 2026 – Present**  
+💼 **Internship | Current Position**
+
+Gaining practical experience in full-stack web development, working with frontend technologies, Node.js, and relational databases in a professional environment.
+
+**Technologies Used:**
+
+`HTML5` · `CSS3` · `JavaScript` · `Node.js` · `MySQL` · `PostgreSQL`
+
+🔗 [Visit BCI Official Website](https://www.bci-bd.org/)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
